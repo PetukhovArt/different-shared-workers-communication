@@ -1,0 +1,21 @@
+{
+  "name": "different-shared-workers-communication",
+  "version": "1.0.0",
+  "description": "Electron + Vue 3 demo: SharedWorkers communication via BroadcastChannel",
+  "main": "./out/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "electron": "^35.1.5",
+    "electron-vite": "^5.0.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.11"
+  }
+}
